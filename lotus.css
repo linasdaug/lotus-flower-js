@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+ #laukelis {
+    width: 50%;
+    min-width: 40px;
+    max-width: 500px;
+    height: auto;
+    z-index: 1;
+}
+
+body {
+    /* background-color: rgb(106, 190, 205); */
+    background-color: black;
+}
